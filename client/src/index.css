@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.slick-slide {
+  padding: 0 10px; /* Adjust this value to control the gap */
+}
+
+body {
+  font-family: "Poppins";
+  overflow-x: hidden;
+  h4 {
+    font-size: 18px;
+    @media (max-width: 768px) {
+      font-size: 18px; /* Half of 18px */
+    }
+  }
+
+  h5 {
+    font-size: 14px;
+    @media (max-width: 768px) {
+      font-size: 14px; /* Half of 14px */
+    }
+  }
+
+  h2 {
+    font-size: 30px;
+    @media (max-width: 768px) {
+      font-size: 22px; /* Half of 30px */
+    }
+  }
+
+  h1 {
+    font-size: 60px;
+    letter-spacing: 1.5px;
+    @media (max-width: 768px) {
+      font-size: 30px; /* Half of 60px */
+    }
+  }
+}
