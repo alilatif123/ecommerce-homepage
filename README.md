@@ -47,4 +47,4 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - Phone: +92 3066298090
 - Email: chaudharyalilatif@gmail.com
-- LinkedIn: Ali Latif
+- LinkedIn: Ali Latif (https://www.linkedin.com/in/alilatif123/)
